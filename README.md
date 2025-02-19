@@ -6,7 +6,7 @@ NetCF (Network control strategy for identifying a Core switching circuit in cell
 We also provide the [Core Switching Circuit algorithm](https://github.com/yena2bell/CoreSwitchingCircuit).
 
 ## A quick guide on how to use NetCF
-
+![Image](https://github.com/user-attachments/assets/567097ab-d651-4fe6-b11d-dea7d8e7dfb2)
 
 ## The NetCF consists of three steps: 
 ### **Step1. Construction of logical dynamic network**
