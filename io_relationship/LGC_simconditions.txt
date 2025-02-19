@@ -1,0 +1,4 @@
+Sim_ID	Node	Min	Max	Alteration
+
+I1	EGF	0	1	FIX
+
