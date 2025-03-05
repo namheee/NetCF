@@ -9,14 +9,14 @@ Please note that [Core Switching Circuit algorithm](https://github.com/yena2bell
 ![Image](https://github.com/user-attachments/assets/567097ab-d651-4fe6-b11d-dea7d8e7dfb2)
 
 ## The NetCF consists of three steps: 
-### **Step 1. Construction of logical dynamic network**
+### **Step 1. Construction of a logical dynamic network**
 
 If there is a logical model, proceed to **Step 2**.
 
 When a user has transcriptome data (e.g., bulk RNA-seq), a logical model is constructed by NetCF as follows:
-1.	Data analysis by VIPER : identify a list of key molecules (Notebook1) 
+1.	Data analysis by VIPER : identify a list of key molecules (Notebook 1) 
 2.	CARNIVAL : infer the network structure (https://github.com/saezlab/CARNIVAL)
-3.	Refine logics by modifying the structure and analyzing input-output relationship (Notebook2, Notebook3)
+3.	Refine logics by modifying the structure and analyzing input-output relationship (Notebook 2, Notebook 3)
 
 > #### Notebook 1
 > The output of Notebook 1 is used as the CARNIVAL input to infer the network structure of interest.
