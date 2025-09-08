@@ -1,4 +1,5 @@
 # NetCF
+Network control strategy for identifying a Core switching circuit in cell state transition through Feedback analysis
 
 ## Overview
 NetCF (Network control strategy for identifying a Core switching circuit in cell state transition through Feedback analysis) is a framework for identifying a combination target and unraveling the underlying mechanism using Boolean network model.
